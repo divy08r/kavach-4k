@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "431227667959",
+    "project_id": "kavach-4k",
+    "storage_bucket": "kavach-4k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431227667959:android:2204e99265765f80f01af2",
+        "android_client_info": {
+          "package_name": "com.stay_safe.kavach_4k"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNzYIHlzWi9gzg7GhYLLYTqb_eoqVrU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

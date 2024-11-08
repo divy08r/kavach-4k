@@ -1,0 +1,11 @@
+Dockerfile
+*.pyc
+*.pyo
+*.pyd
+*.dist
+__pycache__
+.pytest_cache
+.idea
+test audio
+instance
+env
